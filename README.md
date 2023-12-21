@@ -1,2 +1,3 @@
-# Frieren-Grub-Theme
-The grub theme about "Frieren at the Funeral"(葬送のフリーレン)
+# GRUB-Themes
+
+> That's the repository for my GRUB themes.
